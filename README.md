@@ -8,11 +8,11 @@ __Don't use this example with real keys!__
 
 # Dependencies
 
-``
+```
 node.js v12 or higher
 
 express
-``
+```
 # How to run
 
 ```
